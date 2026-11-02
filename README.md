@@ -4,3 +4,4 @@
 
 - Sinh viên: Nguyễn Văn A – MSSV 2022xxxx
 - Chạy chương trình: `python main.py`
+- Python version required: 3.12+
