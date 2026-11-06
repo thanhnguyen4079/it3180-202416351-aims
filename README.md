@@ -4,4 +4,4 @@
 
 - Sinh viên: Nguyễn Sỹ Thành - 202416351
 - Chạy chương trình: `python main.py`
-- Các câu hỏi thảo luận nằm trong thư mục docs/ trên branch master
+- Các câu hỏi thảo luận nằm trong thư mục [docs/](docs/) trên branch master
