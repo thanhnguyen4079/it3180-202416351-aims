@@ -8,6 +8,7 @@
 ## [1.1.0]
 ### Added
 - Sort và tìm theo category
+- Fix: search_by_title case-insensitive
 
 ## [1.0.0] 2026-11-06
 ### Added
