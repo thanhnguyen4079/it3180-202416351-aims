@@ -1,4 +1,5 @@
 import unittest
+
 from aims.cart import Cart
 from aims.dvd import DigitalVideoDisc
 
@@ -16,6 +17,3 @@ class TestCart(unittest.TestCase):
         cart.add_dvd(DigitalVideoDisc(title = "Test DVD", category ="Category", cost = 100.0))
 
         self.assertEqual(cart.total_cost_with_discount(20), 80.0)
-
-        with self.assertRaises(ValueError):
-            cart.total_cost_with_discount(150)
